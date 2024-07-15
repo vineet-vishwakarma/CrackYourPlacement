@@ -1,4 +1,4 @@
-# Approach $$(Dutch National Flag Algorithm)$$
+# Approach (Dutch National Flag Algorithm)
 <!-- Describe your approach to solving the problem. -->
 
 # Complexity
