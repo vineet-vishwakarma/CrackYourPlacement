@@ -1,6 +1,12 @@
-# Time Complexity: O(height)
+# Approach
+<!-- Describe your approach to solving the problem. -->
 
-# Space Complexity: O(height)
+# Complexity
+- Time complexity: O(height)
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity: O(height)
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
 ```
