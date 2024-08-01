@@ -1,8 +1,8 @@
 # Complexity
-- Time complexity: O(n<sup>2</sup>)
+- Time complexity: O(4<sup>n</sup>)
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity: O(n<sup>2</sup>)
+- Space complexity: O(4<sup>n</sup>)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
