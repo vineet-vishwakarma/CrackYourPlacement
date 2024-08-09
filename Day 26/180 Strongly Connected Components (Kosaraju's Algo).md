@@ -1,4 +1,7 @@
 # Approach
+- Sort all edges according to finish time
+- Reverse graph
+- Do dfs and count the SCC
 <!-- Describe your approach to solving the problem. -->
 
 # Complexity
