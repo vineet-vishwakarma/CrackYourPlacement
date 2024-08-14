@@ -2,10 +2,10 @@
 <!-- Describe your approach to solving the problem. -->
 
 # Complexity
-- Time complexity: O(n*k+len)
+- Time complexity: O(n<sup>4</sup>)
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity: O(k)
+- Space complexity: O(n<sup>2</sup>)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
